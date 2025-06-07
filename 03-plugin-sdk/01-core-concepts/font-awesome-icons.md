@@ -1,0 +1,1433 @@
+# Font Awesome Icon Identifiers for DatoCMS Plugin SDK
+
+This document contains all valid Font Awesome icon identifiers that can be used with the DatoCMS Plugin SDK. These are the exact string literals accepted by the `AwesomeFontIconIdentifier` type.
+
+## Numbers & Letters
+- `0`, `00`, `1`, `100`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`
+- `a`, `b`, `c`, `d`, `e`, `f`, `g`, `h`, `i`, `j`, `k`, `l`, `m`, `n`, `o`, `p`, `q`, `r`, `s`, `t`, `u`, `v`, `w`, `x`, `y`, `z`
+- `h1`, `h2`, `h3`, `h4`, `h5`, `h6`
+
+## Arrows & Navigation
+- `angle-down`, `angle-left`, `angle-right`, `angle-up`, `angle`, `angle-90`
+- `angle-double-down`, `angle-double-left`, `angle-double-right`, `angle-double-up`
+- `angles-down`, `angles-left`, `angles-right`, `angles-up`
+- `arrow-down`, `arrow-left`, `arrow-right`, `arrow-up`
+- `arrow-alt-circle-down`, `arrow-alt-circle-left`, `arrow-alt-circle-right`, `arrow-alt-circle-up`
+- `arrow-circle-down`, `arrow-circle-left`, `arrow-circle-right`, `arrow-circle-up`
+- `arrow-down-1-9`, `arrow-down-9-1`, `arrow-down-a-z`, `arrow-down-z-a`
+- `arrow-up-1-9`, `arrow-up-9-1`, `arrow-up-a-z`, `arrow-up-z-a`
+- `arrow-pointer`, `arrow-progress`
+- `arrow-rotate-left`, `arrow-rotate-right`, `arrow-rotate-back`, `arrow-rotate-backward`, `arrow-rotate-forward`
+- `arrow-trend-down`, `arrow-trend-up`
+- `arrow-turn-down`, `arrow-turn-up`, `arrow-turn-right`
+- `arrows-alt`, `arrows-alt-h`, `arrows-alt-v`
+- `arrows-cross`, `arrows-h`, `arrows-v`
+- `arrows-left-right`, `arrows-up-down`
+- `arrows-maximize`, `arrows-minimize`
+- `arrows-repeat`, `arrows-repeat-1`, `arrows-rotate`, `arrows-spin`
+- `caret-down`, `caret-left`, `caret-right`, `caret-up`
+- `chevron-down`, `chevron-left`, `chevron-right`, `chevron-up`
+- `chevrons-down`, `chevrons-left`, `chevrons-right`, `chevrons-up`
+- `circle-arrow-down`, `circle-arrow-left`, `circle-arrow-right`, `circle-arrow-up`
+- `square-arrow-down`, `square-arrow-left`, `square-arrow-right`, `square-arrow-up`
+
+## Icons & UI Elements
+- `check`, `check-circle`, `check-double`, `check-square`, `check-to-slot`
+- `times`, `times-circle`, `times-square`, `times-hexagon`, `times-octagon`
+- `xmark`, `xmark-circle`, `xmark-square`, `xmark-hexagon`, `xmark-octagon`, `xmark-large`
+- `plus`, `plus-circle`, `plus-square`, `plus-hexagon`, `plus-octagon`, `plus-large`
+- `minus`, `minus-circle`, `minus-square`, `minus-hexagon`, `minus-octagon`, `minus-large`
+- `asterisk`, `circle`, `square`, `star`, `star-half`, `star-half-alt`
+- `ban`, `bell`, `bell-slash`, `bookmark`, `bookmark-circle`, `bookmark-slash`
+- `calendar`, `calendar-alt`, `calendar-check`, `calendar-days`, `calendar-minus`, `calendar-plus`, `calendar-xmark`
+- `clipboard`, `clipboard-check`, `clipboard-list`, `clipboard-list-check`
+- `clock`, `clock-rotate-left`
+- `cloud`, `cloud-arrow-down`, `cloud-arrow-up`, `cloud-check`, `cloud-download`, `cloud-upload`
+- `comment`, `comment-alt`, `comment-dots`, `comment-slash`, `comments`, `comments-alt`
+- `download`, `upload`
+- `edit`, `pen`, `pen-alt`, `pen-clip`, `pen-fancy`, `pen-nib`, `pen-square`, `pen-to-square`
+- `envelope`, `envelope-open`, `envelope-open-text`, `envelope-square`
+- `exclamation`, `exclamation-circle`, `exclamation-square`, `exclamation-triangle`
+- `eye`, `eye-slash`, `eye-dropper`
+- `file`, `file-alt`, `file-archive`, `file-audio`, `file-code`, `file-csv`, `file-excel`, `file-image`, `file-lines`, `file-pdf`, `file-powerpoint`, `file-text`, `file-video`, `file-word`, `file-zipper`
+- `flag`, `flag-checkered`, `flag-usa`
+- `folder`, `folder-open`, `folder-plus`, `folder-minus`, `folder-tree`
+- `gear`, `gears`, `cog`, `cogs`
+- `globe`, `globe-americas`, `globe-europe`, `globe-asia`, `globe-africa`
+- `heart`, `heart-broken`, `heart-crack`, `heart-half`, `heart-pulse`
+- `home`, `home-alt`, `house`, `house-chimney`, `house-user`
+- `image`, `images`, `image-portrait`, `image-landscape`
+- `info`, `info-circle`, `info-square`
+- `link`, `link-slash`, `unlink`
+- `list`, `list-ul`, `list-ol`, `list-check`, `list-dots`
+- `lock`, `lock-open`, `unlock`, `unlock-alt`
+- `magnifying-glass`, `magnifying-glass-plus`, `magnifying-glass-minus`
+- `map`, `map-marked`, `map-marked-alt`, `map-pin`, `map-marker`, `map-marker-alt`
+- `paperclip`, `paperclip-vertical`
+- `print`, `print-slash`
+- `question`, `question-circle`, `question-square`
+- `save`, `save-circle-arrow-right`, `save-circle-xmark`
+- `search`, `search-plus`, `search-minus`
+- `share`, `share-alt`, `share-square`, `share-from-square`, `share-nodes`
+- `shield`, `shield-alt`, `shield-check`, `shield-exclamation`, `shield-slash`
+- `signal`, `signal-slash`, `signal-1`, `signal-2`, `signal-3`, `signal-4`, `signal-5`
+- `spinner`, `spinner-third`
+- `tag`, `tags`
+- `trash`, `trash-alt`, `trash-can`, `trash-arrow-up`, `trash-restore`
+- `user`, `user-alt`, `user-circle`, `user-plus`, `user-minus`, `user-check`, `user-xmark`, `user-slash`
+- `users`, `users-cog`, `users-slash`
+- `warning`
+
+## Media & Entertainment
+- `audio-description`, `audio-description-slash`
+- `backward`, `backward-fast`, `backward-step`
+- `camera`, `camera-retro`, `camera-alt`, `camera-circle`, `camera-slash`
+- `circle-play`, `circle-pause`, `circle-stop`
+- `compact-disc`
+- `eject`
+- `fast-backward`, `fast-forward`
+- `film`, `film-alt`, `film-simple`, `film-slash`
+- `forward`, `forward-fast`, `forward-step`
+- `headphones`, `headphones-alt`, `headphones-simple`
+- `microphone`, `microphone-alt`, `microphone-slash`, `microphone-lines`, `microphone-lines-slash`
+- `music`, `music-note`, `music-slash`
+- `pause`, `pause-circle`
+- `photo-film`, `photo-video`
+- `play`, `play-circle`, `play-pause`
+- `podcast`
+- `record-vinyl`
+- `repeat`, `repeat-1`, `repeat-alt`
+- `shuffle`
+- `stop`, `stop-circle`
+- `video`, `video-camera`, `video-slash`, `video-plus`
+- `volume`, `volume-up`, `volume-down`, `volume-off`, `volume-mute`, `volume-high`, `volume-low`
+
+## Business & Office
+- `address-book`, `address-card`
+- `award`, `award-simple`
+- `badge`, `badge-check`, `badge-dollar`, `badge-percent`
+- `briefcase`, `briefcase-medical`, `briefcase-clock`
+- `building`, `building-columns`, `building-flag`, `building-lock`, `building-shield`, `building-user`
+- `business-front`, `business-time`
+- `calculator`, `calculator-alt`, `calculator-simple`
+- `chart-area`, `chart-bar`, `chart-column`, `chart-line`, `chart-pie`, `chart-simple`
+- `clipboard-user`, `clipboard-question`
+- `desktop`, `desktop-alt`, `desktop-arrow-down`
+- `fax`
+- `file-contract`, `file-invoice`, `file-invoice-dollar`, `file-signature`
+- `id-badge`, `id-card`, `id-card-alt`, `id-card-clip`
+- `industry`, `industry-alt`, `industry-windows`
+- `landmark`, `landmark-alt`, `landmark-dome`, `landmark-flag`
+- `laptop`, `laptop-code`, `laptop-file`, `laptop-medical`
+- `paperclip`
+- `phone`, `phone-alt`, `phone-flip`, `phone-office`, `phone-rotary`, `phone-slash`, `phone-volume`
+- `presentation`, `presentation-screen`
+- `projector`
+- `scale-balanced`, `scale-unbalanced`
+- `sitemap`
+- `stamp`
+- `store`, `store-alt`, `store-slash`
+
+## Technology & Devices
+- `bluetooth`
+- `browser`, `browsers`
+- `bug`, `bug-slash`, `bugs`
+- `code`, `code-branch`, `code-commit`, `code-compare`, `code-fork`, `code-merge`, `code-pull-request`
+- `computer`, `computer-classic`, `computer-mouse`, `computer-speaker`
+- `database`
+- `desktop-code`, `desktop-slash`
+- `ethernet`
+- `hard-drive`, `hdd`
+- `keyboard`, `keyboard-brightness`, `keyboard-brightness-low`, `keyboard-down`, `keyboard-left`
+- `laptop-binary`, `laptop-mobile`, `laptop-slash`
+- `memory`
+- `microchip`, `microchip-ai`
+- `mobile`, `mobile-alt`, `mobile-android`, `mobile-android-alt`, `mobile-button`, `mobile-retro`, `mobile-screen`, `mobile-screen-button`
+- `monitor-heart-rate`, `monitor-waveform`
+- `mouse`, `mouse-alt`, `mouse-pointer`
+- `network-wired`
+- `plug`, `plug-circle-bolt`, `plug-circle-check`, `plug-circle-exclamation`, `plug-circle-minus`, `plug-circle-plus`, `plug-circle-xmark`
+- `power-off`
+- `print`, `print-slash`, `print-magnifying-glass`
+- `qrcode`
+- `robot`, `robot-astromech`
+- `router`
+- `satellite`, `satellite-dish`
+- `sd-card`, `sd-cards`
+- `server`
+- `sim-card`, `sim-cards`
+- `tablet`, `tablet-alt`, `tablet-android`, `tablet-android-alt`, `tablet-button`, `tablet-rugged`, `tablet-screen`, `tablet-screen-button`
+- `terminal`
+- `tv`, `tv-alt`, `tv-music`, `tv-retro`
+- `usb-drive`
+- `wifi`, `wifi-1`, `wifi-2`, `wifi-3`, `wifi-slash`, `wifi-exclamation`
+
+## Commerce & Finance
+- `bag-shopping`, `bags-shopping`
+- `barcode`, `barcode-alt`, `barcode-read`, `barcode-scan`
+- `basket-shopping`, `basket-shopping-simple`
+- `bitcoin-sign`
+- `cart-arrow-down`, `cart-plus`, `cart-shopping`, `cart-shopping-fast`
+- `cash-register`
+- `cent-sign`
+- `coins`, `coin`, `coin-blank`, `coin-front`, `coin-vertical`
+- `credit-card`, `credit-card-alt`, `credit-card-blank`, `credit-card-front`
+- `dollar`, `dollar-sign`, `dollar-circle`, `dollar-square`
+- `donate`
+- `euro`, `euro-sign`
+- `money-bill`, `money-bill-1`, `money-bill-alt`, `money-bill-wave`, `money-bills`, `money-check`, `money-check-alt`, `money-check-dollar`
+- `percent`, `percentage`
+- `piggy-bank`
+- `pound-sign`
+- `receipt`
+- `rupee`, `rupee-sign`
+- `sack`, `sack-dollar`, `sack-xmark`
+- `shopping-bag`, `shopping-basket`, `shopping-cart`
+- `store`, `store-alt`, `store-slash`
+- `tag`, `tags`
+- `wallet`
+- `yen`, `yen-sign`
+
+## Food & Drink
+- `apple-whole`, `apple-core`, `apple-crate`
+- `bacon`
+- `banana`
+- `beer`, `beer-mug`, `beer-mug-empty`
+- `blender`
+- `bottle-droplet`, `bottle-water`
+- `bowl-food`, `bowl-rice`, `bowl-salad`, `bowl-chopsticks`, `bowl-chopsticks-noodles`
+- `bread-loaf`, `bread-slice`, `bread-slice-butter`
+- `burger`, `burger-cheese`, `burger-fries`, `burger-glass`, `burger-lettuce`, `burger-soda`
+- `cake`, `cake-candles`, `cake-slice`
+- `candy`, `candy-bar`, `candy-cane`, `candy-corn`
+- `carrot`
+- `cheese`, `cheese-swiss`
+- `coffee`, `coffee-bean`, `coffee-beans`, `coffee-pot`, `coffee-togo`
+- `cookie`, `cookie-bite`
+- `corn`
+- `croissant`
+- `cucumber`
+- `donut`, `doughnut`
+- `egg`, `egg-fried`
+- `fish`, `fish-bones`, `fish-cooked`, `fish-fins`
+- `flask`
+- `glass`, `glass-champagne`, `glass-cheers`, `glass-citrus`, `glass-empty`, `glass-half`, `glass-martini`, `glass-water`, `glass-whiskey`
+- `grapes`
+- `hamburger`
+- `hotdog`
+- `ice-cream`
+- `lemon`
+- `martini-glass`, `martini-glass-citrus`, `martini-glass-empty`
+- `meat`
+- `mug`, `mug-hot`, `mug-marshmallows`, `mug-saucer`, `mug-tea`
+- `pepper`, `pepper-hot`
+- `pie`
+- `pizza`, `pizza-slice`
+- `popcorn`
+- `pot-food`
+- `pretzel`
+- `salad`
+- `sandwich`
+- `sausage`
+- `shrimp`
+- `soup`
+- `stroopwafel`
+- `taco`
+- `utensils`, `utensils-alt`, `utensils-slash`
+- `water`, `water-ladder`, `water-arrow-down`, `water-arrow-up`
+- `watermelon-slice`
+- `wheat`, `wheat-alt`, `wheat-awn`
+- `wine-bottle`, `wine-glass`, `wine-glass-alt`, `wine-glass-crack`, `wine-glass-empty`
+
+## Medical & Health
+- `accessible-icon`
+- `ambulance`
+- `band-aid`, `bandage`
+- `bed-pulse`
+- `biohazard`
+- `bone`, `bone-break`
+- `brain`, `brain-arrow-curved-right`, `brain-circuit`
+- `briefcase-medical`
+- `capsules`
+- `crutch`, `crutches`
+- `dna`
+- `eye-dropper`
+- `file-medical`, `file-medical-alt`
+- `first-aid`
+- `hand-dots`, `hand-holding-medical`
+- `heart-pulse`, `heartbeat`
+- `hospital`, `hospital-alt`, `hospital-symbol`, `hospital-user`
+- `kit-medical`
+- `laptop-medical`
+- `lungs`, `lungs-virus`
+- `mask`, `mask-face`, `mask-ventilator`
+- `medkit`
+- `microscope`
+- `mortar-pestle`
+- `notes-medical`
+- `pills`
+- `plus-circle`
+- `prescription`, `prescription-bottle`, `prescription-bottle-alt`, `prescription-bottle-medical`
+- `procedures`
+- `pump-medical`
+- `radiation`, `radiation-alt`
+- `skull`, `skull-crossbones`
+- `smoking`, `smoking-ban`
+- `stethoscope`
+- `syringe`
+- `tablets`
+- `teeth`, `teeth-open`
+- `thermometer`, `thermometer-empty`, `thermometer-full`, `thermometer-half`, `thermometer-quarter`, `thermometer-three-quarters`
+- `tooth`
+- `user-doctor`, `user-nurse`
+- `vial`, `vials`, `vial-circle-check`, `vial-virus`
+- `virus`, `virus-covid`, `virus-slash`, `viruses`
+- `wheelchair`, `wheelchair-alt`, `wheelchair-move`
+- `x-ray`
+
+## Transportation
+- `ambulance`
+- `bicycle`
+- `bus`, `bus-alt`, `bus-school`, `bus-simple`
+- `cable-car`
+- `car`, `car-alt`, `car-battery`, `car-bolt`, `car-building`, `car-burst`, `car-crash`, `car-garage`, `car-side`, `car-tunnel`
+- `ferry`
+- `helicopter`, `helicopter-symbol`
+- `jet-fighter`, `jet-fighter-up`
+- `motorcycle`
+- `plane`, `plane-alt`, `plane-arrival`, `plane-departure`, `plane-slash`
+- `rocket`, `rocket-launch`
+- `sailboat`
+- `ship`
+- `shuttle-space`, `shuttle-van`
+- `subway`
+- `taxi`, `taxi-bus`
+- `tractor`
+- `train`, `train-subway`, `train-tram`
+- `truck`, `truck-fast`, `truck-field`, `truck-medical`, `truck-monster`, `truck-moving`, `truck-pickup`, `truck-ramp`
+- `van-shuttle`
+
+## Nature & Weather
+- `bolt`, `bolt-lightning`, `bolt-slash`
+- `cloud`, `cloud-bolt`, `cloud-drizzle`, `cloud-fog`, `cloud-hail`, `cloud-moon`, `cloud-moon-rain`, `cloud-rain`, `cloud-showers`, `cloud-showers-heavy`, `cloud-snow`, `cloud-sun`, `cloud-sun-rain`
+- `droplet`, `droplet-degree`, `droplet-percent`, `droplet-slash`
+- `fire`, `fire-alt`, `fire-burner`, `fire-flame`, `fire-flame-curved`, `fire-flame-simple`
+- `icicles`
+- `leaf`, `leaf-heart`, `leaf-maple`, `leaf-oak`
+- `moon`, `moon-cloud`, `moon-stars`
+- `mountain`, `mountain-city`, `mountain-sun`, `mountains`
+- `rainbow`
+- `seedling`
+- `snowflake`, `snowflakes`
+- `sun`, `sun-alt`, `sun-bright`, `sun-cloud`, `sun-dust`, `sun-haze`
+- `temperature-arrow-down`, `temperature-arrow-up`, `temperature-empty`, `temperature-full`, `temperature-half`, `temperature-high`, `temperature-low`, `temperature-quarter`, `temperature-three-quarters`
+- `tornado`
+- `tree`, `tree-alt`, `tree-christmas`, `tree-city`, `tree-deciduous`, `tree-large`, `tree-palm`
+- `umbrella`, `umbrella-alt`, `umbrella-beach`, `umbrella-simple`
+- `water`, `water-arrow-down`, `water-arrow-up`, `water-ladder`
+- `wind`, `wind-turbine`, `wind-warning`
+
+## Sports & Games
+- `baseball`, `baseball-ball`, `baseball-bat-ball`
+- `basketball`, `basketball-ball`, `basketball-hoop`
+- `billiards`, `8ball`
+- `bowling-ball`, `bowling-pins`
+- `chess`, `chess-bishop`, `chess-board`, `chess-king`, `chess-knight`, `chess-pawn`, `chess-queen`, `chess-rook`
+- `cricket`, `cricket-bat-ball`
+- `dice`, `dice-d10`, `dice-d12`, `dice-d20`, `dice-d4`, `dice-d6`, `dice-d8`, `dice-five`, `dice-four`, `dice-one`, `dice-six`, `dice-three`, `dice-two`
+- `football`, `football-ball`, `football-helmet`
+- `futbol`, `futbol-ball`
+- `gamepad`, `gamepad-alt`, `gamepad-modern`
+- `golf-ball`, `golf-ball-tee`, `golf-club`, `golf-flag-hole`
+- `hockey-mask`, `hockey-puck`, `hockey-stick-puck`, `hockey-sticks`
+- `medal`
+- `person-biking`, `person-running`, `person-skating`, `person-skiing`, `person-snowboarding`, `person-swimming`
+- `ping-pong-paddle-ball`
+- `puzzle`, `puzzle-piece`, `puzzle-piece-alt`, `puzzle-piece-simple`
+- `running`
+- `skiing`, `skiing-nordic`
+- `snowboarding`
+- `soccer-ball`
+- `table-tennis`, `table-tennis-paddle-ball`
+- `tennis-ball`
+- `trophy`, `trophy-alt`, `trophy-star`
+- `volleyball`, `volleyball-ball`
+
+## Animals
+- `bat`
+- `bee`
+- `bird`
+- `bug`, `bugs`
+- `butterfly`
+- `cat`, `cat-space`
+- `cow`
+- `crab`
+- `crow`
+- `deer`, `deer-rudolph`
+- `dog`, `dog-leashed`
+- `dolphin`
+- `dove`
+- `dragon`
+- `duck`
+- `elephant`
+- `fish`, `fish-fins`
+- `frog`
+- `hippo`
+- `horse`, `horse-head`, `horse-saddle`
+- `kiwi-bird`
+- `locust`
+- `monkey`
+- `mosquito`
+- `otter`
+- `paw`, `paw-alt`, `paw-claws`, `paw-simple`
+- `pegasus`
+- `pig`
+- `rabbit`, `rabbit-running`
+- `ram`
+- `sheep`
+- `shrimp`
+- `snake`
+- `spider`, `spider-black-widow`, `spider-web`
+- `squirrel`
+- `turkey`
+- `turtle`
+- `whale`
+- `worm`
+
+## Shapes & Symbols
+- `asterisk`
+- `at`
+- `circle`, `circle-check`, `circle-dot`, `circle-exclamation`, `circle-half`, `circle-info`, `circle-minus`, `circle-notch`, `circle-plus`, `circle-question`, `circle-xmark`
+- `diamond`, `diamond-exclamation`, `diamond-half`
+- `hashtag`, `hashtag-lock`
+- `heart`, `heart-broken`, `heart-circle-bolt`, `heart-circle-check`, `heart-circle-exclamation`, `heart-circle-minus`, `heart-circle-plus`, `heart-circle-xmark`, `heart-crack`, `heart-half`, `heart-pulse`
+- `hexagon`, `hexagon-check`, `hexagon-exclamation`, `hexagon-minus`, `hexagon-plus`, `hexagon-xmark`
+- `octagon`, `octagon-check`, `octagon-exclamation`, `octagon-minus`, `octagon-plus`, `octagon-xmark`
+- `plus`, `plus-minus`
+- `square`, `square-check`, `square-dashed`, `square-exclamation`, `square-full`, `square-half`, `square-minus`, `square-plus`, `square-xmark`
+- `star`, `star-and-crescent`, `star-christmas`, `star-exclamation`, `star-half`, `star-half-alt`, `star-of-david`, `star-of-life`
+- `triangle`, `triangle-exclamation`
+
+## Miscellaneous
+- `alien`, `alien-8bit`, `alien-monster`
+- `anchor`, `anchor-circle-check`, `anchor-circle-exclamation`, `anchor-circle-xmark`, `anchor-lock`
+- `atom`, `atom-alt`, `atom-simple`
+- `baby`, `baby-carriage`
+- `bacteria`, `bacterium`
+- `bahai`
+- `battery-empty`, `battery-full`, `battery-half`, `battery-quarter`, `battery-three-quarters`
+- `bed`, `bed-alt`, `bed-bunk`, `bed-empty`, `bed-front`, `bed-pulse`
+- `bell`, `bell-concierge`, `bell-exclamation`, `bell-on`, `bell-plus`, `bell-school`, `bell-slash`
+- `bible`
+- `binoculars`
+- `birthday-cake`
+- `bolt`, `bolt-auto`, `bolt-lightning`, `bolt-slash`
+- `bomb`
+- `book`, `book-atlas`, `book-bible`, `book-blank`, `book-bookmark`, `book-dead`, `book-journal-whills`, `book-medical`, `book-open`, `book-quran`, `book-reader`, `book-skull`, `book-tanakh`, `book-user`
+- `box`, `box-archive`, `box-open`, `box-tissue`, `boxes`, `boxes-alt`, `boxes-packing`, `boxes-stacked`
+- `broom`, `broom-ball`
+- `bucket`
+- `building`, `building-circle-arrow-right`, `building-circle-check`, `building-circle-exclamation`, `building-circle-xmark`, `building-columns`, `building-flag`, `building-lock`, `building-ngo`, `building-shield`, `building-un`, `building-user`, `building-wheat`
+- `bullhorn`, `bullseye`, `bullseye-arrow`, `bullseye-pointer`
+- `bus`, `bus-alt`, `bus-school`, `bus-simple`
+- `cactus`
+- `campfire`, `campground`
+- `candle-holder`
+- `cannabis`
+- `car`, `car-alt`, `car-battery`, `car-bolt`, `car-building`, `car-bump`, `car-burst`, `car-bus`, `car-circle-bolt`, `car-crash`, `car-garage`, `car-mechanic`, `car-mirrors`, `car-on`, `car-rear`, `car-side`, `car-side-bolt`, `car-tilt`, `car-tunnel`, `car-wash`, `car-wrench`
+- `caravan`, `caravan-alt`, `caravan-simple`
+- `castle`
+- `certificate`
+- `chair`, `chair-office`
+- `chalkboard`, `chalkboard-teacher`, `chalkboard-user`
+- `champagne-glass`, `champagne-glasses`
+- `charging-station`
+- `chess`, `chess-bishop`, `chess-bishop-alt`, `chess-board`, `chess-king`, `chess-knight`, `chess-pawn`, `chess-queen`, `chess-rook`
+- `child`, `child-combatant`, `child-dress`, `child-reaching`, `child-rifle`, `children`
+- `church`
+- `city`
+- `clipboard`, `clipboard-check`, `clipboard-list`, `clipboard-list-check`, `clipboard-medical`, `clipboard-prescription`, `clipboard-question`, `clipboard-user`
+- `clock`, `clock-desk`, `clock-eight`, `clock-eight-thirty`, `clock-eleven`, `clock-eleven-thirty`, `clock-five`, `clock-five-thirty`, `clock-four`, `clock-four-thirty`, `clock-nine`, `clock-nine-thirty`, `clock-one`, `clock-one-thirty`, `clock-rotate-left`, `clock-seven`, `clock-seven-thirty`, `clock-six`, `clock-six-thirty`, `clock-ten`, `clock-ten-thirty`, `clock-three`, `clock-three-thirty`, `clock-twelve`, `clock-twelve-thirty`, `clock-two`, `clock-two-thirty`
+- `clone`
+- `close`
+- `cloud`, `cloud-arrow-down`, `cloud-arrow-up`, `cloud-binary`, `cloud-bolt`, `cloud-bolt-moon`, `cloud-bolt-sun`, `cloud-check`, `cloud-download`, `cloud-download-alt`, `cloud-drizzle`, `cloud-exclamation`, `cloud-fog`, `cloud-hail`, `cloud-hail-mixed`, `cloud-meatball`, `cloud-minus`, `cloud-moon`, `cloud-moon-rain`, `cloud-music`, `cloud-plus`, `cloud-question`, `cloud-rain`, `cloud-rainbow`, `cloud-showers`, `cloud-showers-heavy`, `cloud-showers-water`, `cloud-slash`, `cloud-sleet`, `cloud-snow`, `cloud-sun`, `cloud-sun-rain`, `cloud-upload`, `cloud-upload-alt`, `cloud-word`, `cloud-xmark`, `clouds`, `clouds-moon`, `clouds-sun`
+- `clover`
+- `club`
+- `cocktail`
+- `code`, `code-branch`, `code-commit`, `code-compare`, `code-fork`, `code-merge`, `code-pull-request`, `code-pull-request-closed`, `code-pull-request-draft`, `code-simple`
+- `coffee`, `coffee-bean`, `coffee-beans`, `coffee-pot`, `coffee-togo`
+- `coffin`, `coffin-cross`
+- `cog`, `cogs`
+- `coin`, `coin-blank`, `coin-front`, `coin-vertical`, `coins`
+- `colon`, `colon-sign`
+- `columns`, `columns-3`
+- `comet`
+- `comma`
+- `command`
+- `comment`, `comment-alt`, `comment-alt-arrow-down`, `comment-alt-arrow-up`, `comment-alt-captions`, `comment-alt-check`, `comment-alt-dollar`, `comment-alt-dots`, `comment-alt-edit`, `comment-alt-exclamation`, `comment-alt-image`, `comment-alt-lines`, `comment-alt-medical`, `comment-alt-minus`, `comment-alt-music`, `comment-alt-plus`, `comment-alt-quote`, `comment-alt-slash`, `comment-alt-smile`, `comment-alt-text`, `comment-alt-times`, `comment-arrow-down`, `comment-arrow-up`, `comment-arrow-up-right`, `comment-captions`, `comment-check`, `comment-code`, `comment-dollar`, `comment-dots`, `comment-edit`, `comment-exclamation`, `comment-heart`, `comment-image`, `comment-lines`, `comment-medical`, `comment-middle`, `comment-middle-alt`, `comment-middle-top`, `comment-middle-top-alt`, `comment-minus`, `comment-music`, `comment-pen`, `comment-plus`, `comment-question`, `comment-quote`, `comment-slash`, `comment-smile`, `comment-sms`, `comment-text`, `comment-times`, `comment-xmark`
+- `commenting`
+- `comments`, `comments-alt`, `comments-alt-dollar`, `comments-dollar`, `comments-question`, `comments-question-check`
+- `compact-disc`
+- `compass`, `compass-drafting`, `compass-slash`
+- `compress`, `compress-alt`, `compress-arrows`, `compress-arrows-alt`, `compress-wide`
+- `computer`, `computer-classic`, `computer-mouse`, `computer-mouse-scrollwheel`, `computer-speaker`
+- `concierge-bell`
+- `construction`
+- `contact-book`, `contact-card`
+- `container-storage`
+- `conveyor-belt`, `conveyor-belt-alt`, `conveyor-belt-arm`, `conveyor-belt-boxes`, `conveyor-belt-empty`
+- `cookie`, `cookie-bite`
+- `copy`
+- `copyright`
+- `corn`
+- `corner`
+- `couch`, `couch-small`
+- `cow`
+- `cowbell`, `cowbell-circle-plus`, `cowbell-more`
+- `crab`
+- `credit-card`, `credit-card-alt`, `credit-card-blank`, `credit-card-front`
+- `cricket`, `cricket-bat-ball`
+- `croissant`
+- `crop`, `crop-alt`, `crop-simple`
+- `cross`
+- `crosshairs`, `crosshairs-simple`
+- `crow`
+- `crown`
+- `crutch`, `crutches`
+- `crystal-ball`
+- `cube`, `cubes`, `cubes-stacked`
+- `cucumber`
+- `cup-straw`, `cup-straw-swoosh`, `cup-togo`
+- `cupcake`
+- `curling`, `curling-stone`
+- `cut`
+- `cutlery`
+- `dagger`
+- `dash`
+- `dashboard`
+- `database`
+- `deaf`, `deafness`
+- `debug`
+- `deer`, `deer-rudolph`
+- `delete-left`, `delete-right`
+- `democrat`
+- `desktop`, `desktop-alt`, `desktop-arrow-down`, `desktop-code`, `desktop-medical`, `desktop-slash`
+- `dharmachakra`
+- `diagnoses`
+- `diagram-cells`, `diagram-lean-canvas`, `diagram-nested`, `diagram-next`, `diagram-predecessor`, `diagram-previous`, `diagram-project`, `diagram-sankey`, `diagram-subtask`, `diagram-successor`, `diagram-venn`
+- `dial`, `dial-high`, `dial-low`, `dial-max`, `dial-med`, `dial-med-high`, `dial-med-low`, `dial-min`, `dial-off`
+- `diamond`, `diamond-exclamation`, `diamond-half`, `diamond-half-stroke`, `diamond-turn-right`
+- `dice`, `dice-d10`, `dice-d12`, `dice-d20`, `dice-d4`, `dice-d6`, `dice-d8`, `dice-five`, `dice-four`, `dice-one`, `dice-six`, `dice-three`, `dice-two`
+- `digging`
+- `digital-tachograph`
+- `dinosaur`
+- `diploma`
+- `directions`
+- `disc-drive`
+- `disease`
+- `display`, `display-arrow-down`, `display-chart-up`, `display-chart-up-circle-currency`, `display-chart-up-circle-dollar`, `display-code`, `display-medical`, `display-slash`
+- `distribute-spacing-horizontal`, `distribute-spacing-vertical`
+- `ditto`
+- `divide`
+- `dizzy`
+- `dna`
+- `do-not-enter`
+- `dog`, `dog-leashed`
+- `dollar`, `dollar-circle`, `dollar-sign`, `dollar-square`
+- `dolly`, `dolly-box`, `dolly-empty`, `dolly-flatbed`, `dolly-flatbed-alt`, `dolly-flatbed-empty`
+- `dolphin`
+- `donate`
+- `dong-sign`
+- `donut`, `doughnut`
+- `door-closed`, `door-open`
+- `dot-circle`
+- `dove`
+- `down`, `down-from-dotted-line`, `down-from-line`, `down-left`, `down-left-and-up-right-to-center`, `down-long`, `down-right`, `down-to-bracket`, `down-to-dotted-line`, `down-to-line`
+- `download`
+- `drafting-compass`
+- `dragon`
+- `draw-circle`, `draw-polygon`, `draw-square`
+- `dreidel`
+- `drivers-license`
+- `drone`, `drone-alt`, `drone-front`
+- `droplet`, `droplet-degree`, `droplet-percent`, `droplet-slash`
+- `drum`, `drum-steelpan`
+- `drumstick`, `drumstick-bite`
+- `dryer`, `dryer-alt`, `dryer-heat`
+- `duck`
+- `dumbbell`
+- `dumpster`, `dumpster-fire`
+- `dungeon`
+- `ear`, `ear-deaf`, `ear-listen`, `ear-muffs`
+- `earth`, `earth-africa`, `earth-america`, `earth-americas`, `earth-asia`, `earth-europe`, `earth-oceania`
+- `eclipse`, `eclipse-alt`
+- `edit`
+- `egg`, `egg-fried`
+- `eggplant`
+- `eject`
+- `elephant`
+- `elevator`
+- `ellipsis`, `ellipsis-h`, `ellipsis-h-alt`, `ellipsis-stroke`, `ellipsis-stroke-vertical`, `ellipsis-v`, `ellipsis-v-alt`, `ellipsis-vertical`
+- `empty-set`
+- `engine`, `engine-exclamation`, `engine-warning`
+- `envelope`, `envelope-badge`, `envelope-circle`, `envelope-circle-check`, `envelope-dot`, `envelope-open`, `envelope-open-dollar`, `envelope-open-text`, `envelope-square`
+- `envelopes`, `envelopes-bulk`
+- `equals`
+- `eraser`
+- `escalator`
+- `ethernet`
+- `eur`, `euro`, `euro-sign`
+- `exchange`, `exchange-alt`
+- `exclamation`, `exclamation-circle`, `exclamation-square`, `exclamation-triangle`
+- `expand`, `expand-alt`, `expand-arrows`, `expand-arrows-alt`, `expand-wide`
+- `exploding-head`
+- `explosion`
+- `external-link`, `external-link-alt`, `external-link-square`, `external-link-square-alt`
+- `eye`, `eye-dropper`, `eye-dropper-empty`, `eye-dropper-full`, `eye-dropper-half`, `eye-evil`, `eye-low-vision`, `eye-slash`
+- `eyedropper`
+- `eyes`
+- `face-angry`, `face-angry-horns`, `face-anguished`, `face-anxious-sweat`, `face-astonished`, `face-awesome`, `face-beam-hand-over-mouth`, `face-clouds`, `face-confounded`, `face-confused`, `face-cowboy-hat`, `face-diagonal-mouth`, `face-disappointed`, `face-disguise`, `face-dizzy`, `face-dotted`, `face-downcast-sweat`, `face-drooling`, `face-exhaling`, `face-explode`, `face-expressionless`, `face-eyes-xmarks`, `face-fearful`, `face-flushed`, `face-frown`, `face-frown-open`, `face-frown-slight`, `face-glasses`, `face-grimace`, `face-grin`, `face-grin-beam`, `face-grin-beam-sweat`, `face-grin-hearts`, `face-grin-squint`, `face-grin-squint-tears`, `face-grin-stars`, `face-grin-tears`, `face-grin-tongue`, `face-grin-tongue-squint`, `face-grin-tongue-wink`, `face-grin-wide`, `face-grin-wink`, `face-hand-over-mouth`, `face-hand-peeking`, `face-hand-yawn`, `face-head-bandage`, `face-holding-back-tears`, `face-hushed`, `face-icicles`, `face-kiss`, `face-kiss-beam`, `face-kiss-closed-eyes`, `face-kiss-wink-heart`, `face-laugh`, `face-laugh-beam`, `face-laugh-squint`, `face-laugh-wink`, `face-lying`, `face-mask`, `face-meh`, `face-meh-blank`, `face-melting`, `face-monocle`, `face-nauseated`, `face-nose-steam`, `face-party`, `face-pensive`, `face-persevering`, `face-pleading`, `face-pouting`, `face-raised-eyebrow`, `face-relieved`, `face-rolling-eyes`, `face-sad-cry`, `face-sad-sweat`, `face-sad-tear`, `face-saluting`, `face-scream`, `face-shush`, `face-sleeping`, `face-sleepy`, `face-smile`, `face-smile-beam`, `face-smile-halo`, `face-smile-hearts`, `face-smile-horns`, `face-smile-plus`, `face-smile-relaxed`, `face-smile-tear`, `face-smile-tongue`, `face-smile-upside-down`, `face-smile-wink`, `face-smiling-hands`, `face-smirking`, `face-spiral-eyes`, `face-sunglasses`, `face-surprise`, `face-swear`, `face-thermometer`, `face-thinking`, `face-tired`, `face-tissue`, `face-tongue-money`, `face-tongue-sweat`, `face-unamused`, `face-viewfinder`, `face-vomit`, `face-weary`, `face-woozy`, `face-worried`, `face-zany`, `face-zipper`
+- `falafel`
+- `family`, `family-dress`, `family-pants`
+- `fan`, `fan-table`
+- `farm`
+- `fast-backward`, `fast-forward`
+- `faucet`, `faucet-drip`
+- `fax`
+- `feather`, `feather-alt`, `feather-pointed`
+- `feed`
+- `female`
+- `fence`
+- `ferris-wheel`
+- `ferry`
+- `field-hockey`, `field-hockey-stick-ball`
+- `fighter-jet`
+- `file`, `file-alt`, `file-archive`, `file-arrow-down`, `file-arrow-up`, `file-audio`, `file-award`, `file-binary`, `file-caret-down`, `file-caret-up`, `file-certificate`, `file-chart-column`, `file-chart-line`, `file-chart-pie`, `file-check`, `file-circle-check`, `file-circle-exclamation`, `file-circle-info`, `file-circle-minus`, `file-circle-plus`, `file-circle-question`, `file-circle-xmark`, `file-clipboard`, `file-code`, `file-contract`, `file-csv`, `file-dashed-line`, `file-doc`, `file-download`, `file-edit`, `file-excel`, `file-exclamation`, `file-export`, `file-heart`, `file-image`, `file-import`, `file-invoice`, `file-invoice-dollar`, `file-lines`, `file-lock`, `file-magnifying-glass`, `file-medical`, `file-medical-alt`, `file-minus`, `file-music`, `file-pdf`, `file-pen`, `file-plus`, `file-plus-minus`, `file-powerpoint`, `file-prescription`, `file-search`, `file-shield`, `file-signature`, `file-slash`, `file-spreadsheet`, `file-text`, `file-times`, `file-upload`, `file-user`, `file-video`, `file-waveform`, `file-word`, `file-xmark`, `file-zip`, `file-zipper`
+- `files`, `files-medical`
+- `fill`, `fill-drip`
+- `film`, `film-alt`, `film-canister`, `film-cannister`, `film-simple`, `film-slash`
+- `films`
+- `filter`, `filter-circle-dollar`, `filter-circle-xmark`, `filter-list`, `filter-slash`
+- `filters`
+- `fingerprint`
+- `fire`, `fire-alt`, `fire-burner`, `fire-extinguisher`, `fire-flame`, `fire-flame-curved`, `fire-flame-simple`, `fire-hydrant`, `fire-smoke`
+- `fireplace`
+- `firewall`
+- `first-aid`
+- `fish`, `fish-bones`, `fish-cooked`, `fish-fins`
+- `fishing-rod`
+- `fist-raised`
+- `flag`, `flag-alt`, `flag-checkered`, `flag-pennant`, `flag-swallowtail`, `flag-usa`
+- `flame`
+- `flashlight`
+- `flask`, `flask-gear`, `flask-poison`, `flask-potion`, `flask-round-poison`, `flask-round-potion`, `flask-vial`
+- `flatbread`, `flatbread-stuffed`
+- `floppy-disk`, `floppy-disk-circle-arrow-right`, `floppy-disk-circle-xmark`, `floppy-disk-pen`, `floppy-disk-times`, `floppy-disks`
+- `florin-sign`
+- `flower`, `flower-daffodil`, `flower-tulip`
+- `flushed`
+- `flute`
+- `flux-capacitor`
+- `flying-disc`
+- `fog`
+- `folder`, `folder-arrow-down`, `folder-arrow-up`, `folder-blank`, `folder-bookmark`, `folder-closed`, `folder-cog`, `folder-download`, `folder-gear`, `folder-grid`, `folder-heart`, `folder-image`, `folder-magnifying-glass`, `folder-medical`, `folder-minus`, `folder-music`, `folder-open`, `folder-plus`, `folder-search`, `folder-times`, `folder-tree`, `folder-upload`, `folder-user`, `folder-xmark`, `folders`
+- `fondue-pot`
+- `font`, `font-awesome`, `font-awesome-flag`, `font-awesome-logo-full`, `font-case`
+- `football`, `football-ball`, `football-helmet`
+- `fork`, `fork-knife`
+- `forklift`
+- `fort`
+- `forward`, `forward-fast`, `forward-step`
+- `fragile`
+- `frame`
+- `franc-sign`
+- `french-fries`
+- `frog`
+- `frosty-head`
+- `frown`, `frown-open`
+- `function`
+- `funnel-dollar`
+- `futbol`, `futbol-ball`
+- `galaxy`
+- `gallery-thumbnails`
+- `game-board`, `game-board-alt`, `game-board-simple`
+- `game-console-handheld`, `game-console-handheld-crank`
+- `gamepad`, `gamepad-alt`, `gamepad-modern`
+- `garage`, `garage-car`, `garage-open`
+- `garlic`
+- `gas-pump`, `gas-pump-slash`
+- `gauge`, `gauge-circle-bolt`, `gauge-circle-minus`, `gauge-circle-plus`, `gauge-high`, `gauge-low`, `gauge-max`, `gauge-med`, `gauge-min`, `gauge-simple`, `gauge-simple-high`, `gauge-simple-low`, `gauge-simple-max`, `gauge-simple-med`, `gauge-simple-min`
+- `gave-dandy`
+- `gavel`
+- `gbp`
+- `gear`, `gear-code`, `gear-complex`, `gear-complex-code`, `gears`
+- `gem`
+- `genderless`
+- `ghost`
+- `gif`
+- `gift`, `gift-card`, `gifts`
+- `gingerbread-man`
+- `glass`, `glass-champagne`, `glass-cheers`, `glass-citrus`, `glass-empty`, `glass-half`, `glass-half-empty`, `glass-half-full`, `glass-martini`, `glass-martini-alt`, `glass-water`, `glass-water-droplet`, `glass-whiskey`, `glass-whiskey-rocks`
+- `glasses`, `glasses-alt`, `glasses-round`
+- `globe`, `globe-africa`, `globe-americas`, `globe-asia`, `globe-europe`, `globe-oceania`, `globe-snow`, `globe-stand`
+- `glove-boxing`
+- `goal-net`
+- `golf-ball`, `golf-ball-tee`, `golf-club`, `golf-flag-hole`
+- `gopuram`
+- `graduation-cap`
+- `gramophone`
+- `grapes`
+- `grate`, `grate-droplet`
+- `greater-than`, `greater-than-equal`
+- `grid`, `grid-2`, `grid-2-plus`, `grid-3`, `grid-4`, `grid-5`, `grid-dividers`, `grid-horizontal`, `grid-round`, `grid-round-2`, `grid-round-2-plus`, `grid-round-4`, `grid-round-5`
+- `grill`, `grill-fire`, `grill-hot`
+- `grimace`
+- `grin`, `grin-alt`, `grin-beam`, `grin-beam-sweat`, `grin-hearts`, `grin-squint`, `grin-squint-tears`, `grin-stars`, `grin-tears`, `grin-tongue`, `grin-tongue-squint`, `grin-tongue-wink`, `grin-wink`
+- `grip`, `grip-dots`, `grip-dots-vertical`, `grip-horizontal`, `grip-lines`, `grip-lines-vertical`, `grip-vertical`
+- `group-arrows-rotate`
+- `guarani-sign`
+- `guitar`, `guitar-electric`, `guitars`
+- `gun`, `gun-slash`, `gun-squirt`
+- `h`, `h-square`
+- `h1`, `h2`, `h3`, `h4`, `h5`, `h6`
+- `hamburger`
+- `hammer`, `hammer-crash`, `hammer-war`
+- `hamsa`
+- `hand`, `hand-back-fist`, `hand-back-point-down`, `hand-back-point-left`, `hand-back-point-ribbon`, `hand-back-point-right`, `hand-back-point-up`, `hand-dots`, `hand-fingers-crossed`, `hand-fist`, `hand-heart`, `hand-holding`, `hand-holding-box`, `hand-holding-dollar`, `hand-holding-droplet`, `hand-holding-hand`, `hand-holding-heart`, `hand-holding-magic`, `hand-holding-medical`, `hand-holding-seedling`, `hand-holding-skull`, `hand-holding-usd`, `hand-holding-water`, `hand-horns`, `hand-lizard`, `hand-love`, `hand-middle-finger`, `hand-paper`, `hand-peace`, `hand-point-down`, `hand-point-left`, `hand-point-ribbon`, `hand-point-right`, `hand-point-up`, `hand-pointer`, `hand-receiving`, `hand-rock`, `hand-scissors`, `hand-sparkles`, `hand-spock`, `hand-wave`
+- `handcuffs`
+- `hands`, `hands-american-sign-language-interpreting`, `hands-asl-interpreting`, `hands-bound`, `hands-bubbles`, `hands-clapping`, `hands-heart`, `hands-helping`, `hands-holding`, `hands-holding-child`, `hands-holding-circle`, `hands-holding-diamond`, `hands-holding-dollar`, `hands-holding-heart`, `hands-praying`, `hands-usd`, `hands-wash`
+- `handshake`, `handshake-alt`, `handshake-alt-slash`, `handshake-angle`, `handshake-simple`, `handshake-simple-slash`, `handshake-slash`
+- `hanukiah`
+- `hard-drive`
+- `hard-hat`
+- `hard-of-hearing`
+- `hashtag`, `hashtag-lock`
+- `hat-beach`, `hat-chef`, `hat-cowboy`, `hat-cowboy-side`, `hat-hard`, `hat-santa`, `hat-winter`, `hat-witch`, `hat-wizard`
+- `haykal`
+- `hdd`
+- `head-side`, `head-side-brain`, `head-side-cough`, `head-side-cough-slash`, `head-side-goggles`, `head-side-headphones`, `head-side-heart`, `head-side-mask`, `head-side-medical`, `head-side-virus`
+- `head-vr`
+- `header`
+- `heading`
+- `headphones`, `headphones-alt`, `headphones-simple`
+- `headset`
+- `heart`, `heart-broken`, `heart-circle`, `heart-circle-bolt`, `heart-circle-check`, `heart-circle-exclamation`, `heart-circle-minus`, `heart-circle-plus`, `heart-circle-xmark`, `heart-crack`, `heart-half`, `heart-half-alt`, `heart-half-stroke`, `heart-music-camera-bolt`, `heart-pulse`, `heart-rate`, `heart-square`
+- `heartbeat`
+- `heat`
+- `helicopter`, `helicopter-symbol`
+- `helmet-battle`, `helmet-safety`, `helmet-un`
+- `hexagon`, `hexagon-check`, `hexagon-divide`, `hexagon-exclamation`, `hexagon-image`, `hexagon-minus`, `hexagon-plus`, `hexagon-vertical-nft`, `hexagon-vertical-nft-slanted`, `hexagon-xmark`
+- `high-definition`
+- `highlighter`, `highlighter-line`
+- `hiking`
+- `hill-avalanche`, `hill-rockslide`
+- `hippo`
+- `history`
+- `hockey-mask`, `hockey-puck`, `hockey-stick-puck`, `hockey-sticks`
+- `holly-berry`
+- `home`, `home-alt`, `home-blank`, `home-heart`, `home-lg`, `home-lg-alt`, `home-user`
+- `honey-pot`
+- `hood-cloak`
+- `horizontal-rule`
+- `horse`, `horse-head`, `horse-saddle`
+- `hose`, `hose-reel`
+- `hospital`, `hospital-alt`, `hospital-symbol`, `hospital-user`, `hospital-wide`
+- `hospitals`
+- `hot-tub`, `hot-tub-person`
+- `hotdog`
+- `hotel`
+- `hourglass`, `hourglass-1`, `hourglass-2`, `hourglass-3`, `hourglass-clock`, `hourglass-empty`, `hourglass-end`, `hourglass-half`, `hourglass-start`
+- `house`, `house-blank`, `house-building`, `house-chimney`, `house-chimney-blank`, `house-chimney-crack`, `house-chimney-heart`, `house-chimney-medical`, `house-chimney-user`, `house-chimney-window`, `house-circle-check`, `house-circle-exclamation`, `house-circle-xmark`, `house-crack`, `house-damage`, `house-day`, `house-fire`, `house-flag`, `house-flood`, `house-flood-water`, `house-flood-water-circle-arrow-right`, `house-heart`, `house-laptop`, `house-leave`, `house-lock`, `house-medical`, `house-medical-circle-check`, `house-medical-circle-exclamation`, `house-medical-circle-xmark`, `house-medical-flag`, `house-night`, `house-person-arrive`, `house-person-depart`, `house-person-leave`, `house-person-return`, `house-return`, `house-signal`, `house-tree`, `house-tsunami`, `house-turret`, `house-user`, `house-water`, `house-window`
+- `hryvnia`, `hryvnia-sign`
+- `humidity`
+- `hundred-points`
+- `hurricane`
+- `hyphen`
+- `i`, `i-cursor`
+- `ice-cream`
+- `ice-skate`
+- `icicles`
+- `icons`, `icons-alt`
+- `id-badge`, `id-card`, `id-card-alt`, `id-card-clip`
+- `igloo`
+- `ils`
+- `image`, `image-landscape`, `image-polaroid`, `image-polaroid-user`, `image-portrait`, `image-slash`, `image-user`
+- `images`, `images-user`
+- `inbox`, `inbox-arrow-down`, `inbox-arrow-up`, `inbox-full`, `inbox-in`, `inbox-out`
+- `inboxes`
+- `indent`
+- `indian-rupee`, `indian-rupee-sign`
+- `industry`, `industry-alt`, `industry-windows`
+- `infinity`
+- `info`, `info-circle`, `info-square`
+- `inhaler`
+- `input-numeric`, `input-pipe`, `input-text`
+- `inr`
+- `institution`
+- `integral`
+- `interrobang`
+- `intersection`
+- `inventory`
+- `island-tree-palm`, `island-tropical`
+- `italic`
+- `jack-o-lantern`
+- `jar`, `jar-wheat`
+- `jedi`
+- `jet-fighter`, `jet-fighter-up`
+- `joint`
+- `journal-whills`
+- `joystick`
+- `jpy`
+- `jug`, `jug-bottle`, `jug-detergent`
+- `kaaba`
+- `kazoo`
+- `kerning`
+- `key`, `key-skeleton`, `key-skeleton-left-right`
+- `keyboard`, `keyboard-brightness`, `keyboard-brightness-low`, `keyboard-down`, `keyboard-left`
+- `keynote`
+- `khanda`
+- `kidneys`
+- `kip-sign`
+- `kiss`, `kiss-beam`, `kiss-wink-heart`
+- `kit-medical`
+- `kitchen-set`
+- `kite`
+- `kiwi-bird`, `kiwi-fruit`
+- `knife`, `knife-kitchen`
+- `krw`
+- `lacrosse-stick`, `lacrosse-stick-ball`
+- `ladder-water`
+- `lambda`
+- `lamp`, `lamp-desk`, `lamp-floor`, `lamp-street`
+- `land-mine-on`
+- `landmark`, `landmark-alt`, `landmark-dome`, `landmark-flag`
+- `landscape`
+- `language`
+- `laptop`, `laptop-arrow-down`, `laptop-binary`, `laptop-code`, `laptop-file`, `laptop-house`, `laptop-medical`, `laptop-mobile`, `laptop-slash`
+- `lari-sign`
+- `lasso`, `lasso-sparkles`
+- `laugh`, `laugh-beam`, `laugh-squint`, `laugh-wink`
+- `layer-group`, `layer-group-minus`, `layer-group-plus`
+- `layer-minus`, `layer-plus`
+- `leaf`, `leaf-heart`, `leaf-maple`, `leaf-oak`
+- `leafy-green`
+- `left`, `left-from-line`, `left-long`, `left-long-to-line`, `left-right`, `left-to-line`
+- `legal`
+- `lemon`
+- `less-than`, `less-than-equal`
+- `level-down`, `level-down-alt`, `level-up`, `level-up-alt`
+- `life-ring`
+- `light-ceiling`, `light-emergency`, `light-emergency-on`, `light-switch`, `light-switch-off`, `light-switch-on`
+- `lightbulb`, `lightbulb-cfl`, `lightbulb-cfl-on`, `lightbulb-dollar`, `lightbulb-exclamation`, `lightbulb-exclamation-on`, `lightbulb-gear`, `lightbulb-on`, `lightbulb-slash`
+- `lights-holiday`
+- `line-chart`, `line-columns`, `line-height`
+- `lines-leaning`
+- `link`, `link-horizontal`, `link-horizontal-slash`, `link-simple`, `link-simple-slash`, `link-slash`
+- `lips`
+- `lira-sign`
+- `list`, `list-1-2`, `list-alt`, `list-check`, `list-dots`, `list-dropdown`, `list-music`, `list-numeric`, `list-ol`, `list-radio`, `list-squares`, `list-timeline`, `list-tree`, `list-ul`
+- `litecoin-sign`
+- `loader`
+- `lobster`
+- `location`, `location-arrow`, `location-check`, `location-circle`, `location-crosshairs`, `location-crosshairs-slash`, `location-dot`, `location-dot-slash`, `location-exclamation`, `location-minus`, `location-pen`, `location-pin`, `location-pin-lock`, `location-pin-slash`, `location-plus`, `location-question`, `location-slash`, `location-smile`, `location-xmark`
+- `lock`, `lock-a`, `lock-alt`, `lock-hashtag`, `lock-keyhole`, `lock-keyhole-open`, `lock-open`, `lock-open-alt`
+- `locust`
+- `lollipop`, `lollypop`
+- `long-arrow-alt-down`, `long-arrow-alt-left`, `long-arrow-alt-right`, `long-arrow-alt-up`, `long-arrow-down`, `long-arrow-left`, `long-arrow-right`, `long-arrow-up`
+- `loveseat`
+- `low-vision`
+- `luchador`, `luchador-mask`
+- `luggage-cart`
+- `lungs`, `lungs-virus`
+- `mace`
+- `magic`, `magic-wand-sparkles`
+- `magnet`
+- `magnifying-glass`, `magnifying-glass-arrow-right`, `magnifying-glass-chart`, `magnifying-glass-dollar`, `magnifying-glass-location`, `magnifying-glass-minus`, `magnifying-glass-plus`
+- `mail-bulk`, `mail-forward`, `mail-reply`, `mail-reply-all`
+- `mailbox`, `mailbox-flag-up`
+- `maki-roll`, `makizushi`
+- `male`
+- `manat-sign`
+- `mandolin`
+- `mango`
+- `manhole`
+- `map`, `map-location`, `map-location-dot`, `map-marked`, `map-marked-alt`, `map-marker`, `map-marker-alt`, `map-marker-alt-slash`, `map-marker-check`, `map-marker-edit`, `map-marker-exclamation`, `map-marker-minus`, `map-marker-plus`, `map-marker-question`, `map-marker-slash`, `map-marker-smile`, `map-marker-times`, `map-marker-xmark`, `map-pin`, `map-signs`
+- `marker`
+- `mars`, `mars-and-venus`, `mars-and-venus-burst`, `mars-double`, `mars-stroke`, `mars-stroke-h`, `mars-stroke-right`, `mars-stroke-up`, `mars-stroke-v`
+- `martini-glass`, `martini-glass-citrus`, `martini-glass-empty`
+- `mask`, `mask-face`, `mask-luchador`, `mask-snorkel`, `mask-ventilator`
+- `masks-theater`
+- `mattress-pillow`
+- `maximize`
+- `meat`
+- `medal`
+- `medkit`
+- `megaphone`
+- `meh`, `meh-blank`, `meh-rolling-eyes`
+- `melon`, `melon-slice`
+- `memo`, `memo-circle-check`, `memo-circle-info`, `memo-pad`
+- `memory`
+- `menorah`
+- `mercury`
+- `merge`
+- `message`, `message-arrow-down`, `message-arrow-up`, `message-arrow-up-right`, `message-bot`, `message-captions`, `message-check`, `message-code`, `message-dollar`, `message-dots`, `message-edit`, `message-exclamation`, `message-heart`, `message-image`, `message-lines`, `message-medical`, `message-middle`, `message-middle-top`, `message-minus`, `message-music`, `message-pen`, `message-plus`, `message-question`, `message-quote`, `message-slash`, `message-smile`, `message-sms`, `message-text`, `message-times`, `message-xmark`
+- `messages`, `messages-dollar`, `messages-question`
+- `messaging`
+- `meteor`
+- `meter`, `meter-bolt`, `meter-droplet`, `meter-fire`
+- `microchip`, `microchip-ai`
+- `microphone`, `microphone-alt`, `microphone-alt-slash`, `microphone-circle`, `microphone-circle-alt`, `microphone-lines`, `microphone-lines-slash`, `microphone-slash`, `microphone-stand`
+- `microscope`
+- `microwave`
+- `mill-sign`
+- `mind-share`
+- `minimize`
+- `minus`, `minus-circle`, `minus-hexagon`, `minus-large`, `minus-octagon`, `minus-square`
+- `mistletoe`
+- `mitten`
+- `mobile`, `mobile-alt`, `mobile-android`, `mobile-android-alt`, `mobile-button`, `mobile-iphone`, `mobile-notch`, `mobile-phone`, `mobile-retro`, `mobile-screen`, `mobile-screen-button`, `mobile-signal`, `mobile-signal-out`
+- `money-bill`, `money-bill-1`, `money-bill-1-wave`, `money-bill-alt`, `money-bill-simple`, `money-bill-simple-wave`, `money-bill-transfer`, `money-bill-trend-up`, `money-bill-wave`, `money-bill-wave-alt`, `money-bill-wheat`, `money-bills`, `money-bills-alt`, `money-bills-simple`, `money-check`, `money-check-alt`, `money-check-dollar`, `money-check-dollar-pen`, `money-check-edit`, `money-check-edit-alt`, `money-check-pen`, `money-from-bracket`, `money-simple-from-bracket`
+- `monitor-heart-rate`, `monitor-waveform`
+- `monkey`
+- `monument`
+- `moon`, `moon-cloud`, `moon-over-sun`, `moon-stars`
+- `moped`
+- `mortar-board`, `mortar-pestle`
+- `mosque`
+- `mosquito`, `mosquito-net`
+- `motorcycle`
+- `mound`
+- `mountain`, `mountain-city`, `mountain-sun`, `mountains`
+- `mouse`, `mouse-alt`, `mouse-field`, `mouse-pointer`
+- `mp3-player`
+- `mug`, `mug-hot`, `mug-marshmallows`, `mug-saucer`, `mug-tea`, `mug-tea-saucer`
+- `multiply`
+- `museum`
+- `mushroom`
+- `music`, `music-alt`, `music-alt-slash`, `music-note`, `music-note-slash`, `music-slash`
+- `mustache`
+- `naira-sign`
+- `narwhal`
+- `navicon`
+- `nesting-dolls`
+- `network-wired`
+- `neuter`
+- `newspaper`
+- `nfc`, `nfc-lock`, `nfc-magnifying-glass`, `nfc-pen`, `nfc-signal`, `nfc-slash`, `nfc-symbol`, `nfc-trash`
+- `nigiri`
+- `nose`
+- `not-equal`
+- `notdef`
+- `note`, `note-medical`, `note-sticky`
+- `notebook`
+- `notes`, `notes-medical`
+- `object-exclude`, `object-group`, `object-intersect`, `object-subtract`, `object-ungroup`, `object-union`
+- `objects-align-bottom`, `objects-align-center-horizontal`, `objects-align-center-vertical`, `objects-align-left`, `objects-align-right`, `objects-align-top`, `objects-column`
+- `octagon`, `octagon-check`, `octagon-divide`, `octagon-exclamation`, `octagon-minus`, `octagon-plus`, `octagon-xmark`
+- `oil-can`, `oil-can-drip`, `oil-temp`, `oil-temperature`, `oil-well`
+- `olive`, `olive-branch`
+- `om`
+- `omega`
+- `onion`
+- `option`
+- `ornament`
+- `otter`
+- `outdent`
+- `outlet`
+- `oven`
+- `overline`
+- `page`, `page-break`, `page-caret-down`, `page-caret-up`
+- `pager`
+- `paint-brush`, `paint-brush-alt`, `paint-brush-fine`, `paint-roller`
+- `paintbrush`, `paintbrush-alt`, `paintbrush-fine`, `paintbrush-pencil`
+- `palette`, `palette-boxes`
+- `pallet`, `pallet-alt`, `pallet-box`, `pallet-boxes`
+- `pan-food`, `pan-frying`
+- `pancakes`
+- `panel-ews`, `panel-fire`
+- `panorama`
+- `paper-plane`, `paper-plane-alt`, `paper-plane-top`
+- `paperclip`, `paperclip-vertical`
+- `parachute-box`
+- `paragraph`, `paragraph-left`, `paragraph-rtl`
+- `parentheses`, `parenthesis`
+- `parking`, `parking-circle`, `parking-circle-slash`, `parking-slash`
+- `party-back`, `party-bell`, `party-horn`
+- `passport`
+- `pastafarianism`
+- `paste`
+- `pause`, `pause-circle`
+- `paw`, `paw-alt`, `paw-claws`, `paw-simple`
+- `peace`
+- `peach`
+- `peanut`, `peanuts`
+- `peapod`
+- `pear`
+- `pedestal`
+- `pegasus`
+- `pen`, `pen-alt`, `pen-alt-slash`, `pen-circle`, `pen-clip`, `pen-clip-slash`, `pen-fancy`, `pen-fancy-slash`, `pen-field`, `pen-line`, `pen-nib`, `pen-nib-slash`, `pen-paintbrush`, `pen-ruler`, `pen-slash`, `pen-square`, `pen-swirl`, `pen-to-square`
+- `pencil`, `pencil-alt`, `pencil-mechanical`, `pencil-paintbrush`, `pencil-ruler`, `pencil-slash`, `pencil-square`
+- `pennant`
+- `people`, `people-arrows`, `people-arrows-left-right`, `people-carry`, `people-carry-box`, `people-dress`, `people-dress-simple`, `people-group`, `people-line`, `people-pants`, `people-pants-simple`, `people-pulling`, `people-robbery`, `people-roof`, `people-simple`
+- `pepper`, `pepper-hot`
+- `percent`, `percentage`
+- `period`
+- `person`, `person-arrow-down-to-line`, `person-arrow-up-from-line`, `person-biking`, `person-biking-mountain`, `person-booth`, `person-breastfeeding`, `person-burst`, `person-cane`, `person-carry`, `person-carry-box`, `person-chalkboard`, `person-circle-check`, `person-circle-exclamation`, `person-circle-minus`, `person-circle-plus`, `person-circle-question`, `person-circle-xmark`, `person-digging`, `person-dolly`, `person-dolly-empty`, `person-dots-from-line`, `person-dress`, `person-dress-burst`, `person-dress-simple`, `person-drowning`, `person-falling`, `person-falling-burst`, `person-from-portal`, `person-half-dress`, `person-harassing`, `person-hiking`, `person-military-pointing`, `person-military-rifle`, `person-military-to-person`, `person-pinball`, `person-praying`, `person-pregnant`, `person-rays`, `person-rifle`, `person-running`, `person-running-fast`, `person-seat`, `person-seat-reclined`, `person-shelter`, `person-sign`, `person-simple`, `person-skating`, `person-ski-jumping`, `person-ski-lift`, `person-skiing`, `person-skiing-nordic`, `person-sledding`, `person-snowboarding`, `person-snowmobiling`, `person-swimming`, `person-through-window`, `person-to-door`, `person-to-portal`, `person-walking`, `person-walking-arrow-loop-left`, `person-walking-arrow-right`, `person-walking-dashed-line-arrow-right`, `person-walking-luggage`, `person-walking-with-cane`
+- `peseta-sign`
+- `peso-sign`
+- `phone`, `phone-alt`, `phone-arrow-down`, `phone-arrow-down-left`, `phone-arrow-right`, `phone-arrow-up`, `phone-arrow-up-right`, `phone-circle`, `phone-circle-alt`, `phone-circle-down`, `phone-flip`, `phone-hangup`, `phone-incoming`, `phone-intercom`, `phone-laptop`, `phone-missed`, `phone-office`, `phone-outgoing`, `phone-plus`, `phone-rotary`, `phone-slash`, `phone-square`, `phone-square-alt`, `phone-square-down`, `phone-volume`, `phone-xmark`
+- `photo-film`, `photo-film-music`, `photo-video`
+- `pi`
+- `piano`, `piano-keyboard`
+- `pickaxe`
+- `pickleball`
+- `pie`, `pie-chart`
+- `pig`
+- `piggy-bank`
+- `pills`
+- `pinata`
+- `pinball`
+- `pineapple`
+- `ping-pong-paddle-ball`
+- `pipe`, `pipe-circle-check`, `pipe-collar`, `pipe-section`, `pipe-smoking`, `pipe-valve`
+- `pizza`, `pizza-slice`
+- `place-of-worship`
+- `plane`, `plane-alt`, `plane-arrival`, `plane-circle-check`, `plane-circle-exclamation`, `plane-circle-xmark`, `plane-departure`, `plane-engines`, `plane-lock`, `plane-prop`, `plane-slash`, `plane-tail`, `plane-up`, `plane-up-slash`
+- `planet-moon`, `planet-ringed`
+- `plant-wilt`
+- `plate-utensils`, `plate-wheat`
+- `play`, `play-circle`, `play-pause`
+- `plug`, `plug-circle-bolt`, `plug-circle-check`, `plug-circle-exclamation`, `plug-circle-minus`, `plug-circle-plus`, `plug-circle-xmark`
+- `plus`, `plus-circle`, `plus-hexagon`, `plus-large`, `plus-minus`, `plus-octagon`, `plus-square`
+- `podcast`
+- `podium`, `podium-star`
+- `police-box`
+- `poll`, `poll-h`, `poll-people`
+- `pompebled`
+- `poo`, `poo-bolt`, `poo-storm`
+- `pool-8-ball`
+- `poop`
+- `popcorn`
+- `popsicle`
+- `portal-enter`, `portal-exit`
+- `portrait`
+- `pot-food`
+- `potato`
+- `pound-sign`
+- `power-off`
+- `pray`, `praying-hands`
+- `prescription`, `prescription-bottle`, `prescription-bottle-alt`, `prescription-bottle-medical`, `prescription-bottle-pill`
+- `presentation`, `presentation-screen`
+- `pretzel`
+- `print`, `print-magnifying-glass`, `print-search`, `print-slash`
+- `pro`
+- `procedures`
+- `project-diagram`
+- `projector`
+- `pump`, `pump-medical`, `pump-soap`
+- `pumpkin`
+- `puzzle`, `puzzle-piece`, `puzzle-piece-alt`, `puzzle-piece-simple`
+- `qrcode`
+- `question`, `question-circle`, `question-square`
+- `quidditch`, `quidditch-broom-ball`
+- `quote-left`, `quote-left-alt`, `quote-right`, `quote-right-alt`, `quotes`
+- `quran`
+- `rabbit`, `rabbit-fast`, `rabbit-running`
+- `racquet`
+- `radar`
+- `radiation`, `radiation-alt`
+- `radio`, `radio-alt`, `radio-tuner`
+- `rainbow`
+- `raindrops`
+- `ram`
+- `ramp-loading`
+- `random`
+- `ranking-star`
+- `raygun`
+- `receipt`
+- `record-vinyl`
+- `rectangle`, `rectangle-ad`, `rectangle-barcode`, `rectangle-code`, `rectangle-hd`, `rectangle-history`, `rectangle-history-circle-plus`, `rectangle-history-circle-user`, `rectangle-landscape`, `rectangle-list`, `rectangle-portrait`, `rectangle-pro`, `rectangle-sd`, `rectangle-terminal`, `rectangle-times`, `rectangle-vertical`, `rectangle-vertical-history`, `rectangle-wide`, `rectangle-xmark`
+- `rectangles-mixed`
+- `recycle`
+- `redo`, `redo-alt`
+- `reel`
+- `refresh`
+- `refrigerator`
+- `registered`
+- `remove`, `remove-format`
+- `reorder`
+- `repeat`, `repeat-1`, `repeat-1-alt`, `repeat-alt`
+- `reply`, `reply-all`, `reply-clock`, `reply-time`
+- `republican`
+- `restroom`, `restroom-simple`
+- `retweet`, `retweet-alt`
+- `rhombus`
+- `ribbon`
+- `right`, `right-from-bracket`, `right-from-line`, `right-left`, `right-left-large`, `right-long`, `right-long-to-line`, `right-to-bracket`, `right-to-line`
+- `ring`, `ring-diamond`
+- `rings-wedding`
+- `rmb`
+- `road`, `road-barrier`, `road-bridge`, `road-circle-check`, `road-circle-exclamation`, `road-circle-xmark`, `road-lock`, `road-spikes`
+- `robot`, `robot-astromech`
+- `rocket`, `rocket-launch`
+- `rod-asclepius`, `rod-snake`
+- `roller-coaster`
+- `rotate`, `rotate-back`, `rotate-backward`, `rotate-exclamation`, `rotate-forward`, `rotate-left`, `rotate-right`
+- `rouble`
+- `route`, `route-highway`, `route-interstate`
+- `router`
+- `rows`
+- `rss`, `rss-square`
+- `rub`
+- `ruble`, `ruble-sign`
+- `rug`
+- `rugby-ball`
+- `ruler`, `ruler-combined`, `ruler-horizontal`, `ruler-triangle`, `ruler-vertical`
+- `running`
+- `rupee`, `rupee-sign`
+- `rupiah-sign`
+- `rv`
+- `sack`, `sack-dollar`, `sack-xmark`
+- `sad-cry`, `sad-tear`
+- `sailboat`
+- `salad`
+- `salt-shaker`
+- `sandwich`
+- `satellite`, `satellite-dish`
+- `sausage`
+- `save`, `save-circle-arrow-right`, `save-circle-xmark`, `save-times`
+- `sax-hot`
+- `saxophone`, `saxophone-fire`
+- `scale-balanced`, `scale-unbalanced`, `scale-unbalanced-flip`
+- `scalpel`, `scalpel-line-dashed`, `scalpel-path`
+- `scanner`, `scanner-gun`, `scanner-image`, `scanner-keyboard`, `scanner-touchscreen`
+- `scarecrow`
+- `scarf`
+- `school`, `school-circle-check`, `school-circle-exclamation`, `school-circle-xmark`, `school-flag`, `school-lock`
+- `scissors`
+- `screen-users`
+- `screencast`
+- `screenshot`
+- `screwdriver`, `screwdriver-wrench`
+- `scribble`
+- `scroll`, `scroll-old`, `scroll-ribbon`, `scroll-torah`
+- `scrubber`
+- `scythe`
+- `sd-card`, `sd-cards`
+- `seal`, `seal-exclamation`, `seal-question`
+- `search`, `search-dollar`, `search-location`, `search-minus`, `search-plus`
+- `seat-airline`
+- `section`
+- `seedling`
+- `semicolon`
+- `send`, `send-back`, `send-backward`
+- `sensor`, `sensor-alert`, `sensor-cloud`, `sensor-fire`, `sensor-on`, `sensor-smoke`, `sensor-triangle-exclamation`
+- `server`
+- `shapes`
+- `share`, `share-all`, `share-alt`, `share-alt-square`, `share-from-square`, `share-nodes`, `share-square`
+- `sheep`
+- `sheet-plastic`
+- `shekel`, `shekel-sign`
+- `shelves`, `shelves-empty`
+- `sheqel`, `sheqel-sign`
+- `shield`, `shield-alt`, `shield-blank`, `shield-cat`, `shield-check`, `shield-cross`, `shield-dog`, `shield-exclamation`, `shield-halved`, `shield-heart`, `shield-keyhole`, `shield-minus`, `shield-plus`, `shield-quartered`, `shield-slash`, `shield-times`, `shield-virus`, `shield-xmark`
+- `ship`
+- `shipping-fast`, `shipping-timed`
+- `shirt`, `shirt-long-sleeve`, `shirt-running`, `shirt-tank-top`
+- `shish-kebab`
+- `shoe-prints`
+- `shop`, `shop-lock`, `shop-slash`
+- `shopping-bag`, `shopping-basket`, `shopping-basket-alt`, `shopping-cart`
+- `shortcake`
+- `shovel`, `shovel-snow`
+- `shower`, `shower-alt`, `shower-down`
+- `shredder`
+- `shrimp`
+- `shuffle`
+- `shutters`
+- `shuttle-space`, `shuttle-van`
+- `shuttlecock`
+- `sickle`
+- `sidebar`, `sidebar-flip`
+- `sigma`
+- `sign`, `sign-hanging`, `sign-in`, `sign-in-alt`, `sign-language`, `sign-out`, `sign-out-alt`
+- `signal`, `signal-1`, `signal-2`, `signal-3`, `signal-4`, `signal-5`, `signal-alt`, `signal-alt-1`, `signal-alt-2`, `signal-alt-3`, `signal-alt-4`, `signal-alt-slash`, `signal-bars`, `signal-bars-fair`, `signal-bars-good`, `signal-bars-slash`, `signal-bars-strong`, `signal-bars-weak`, `signal-fair`, `signal-good`, `signal-perfect`, `signal-slash`, `signal-stream`, `signal-stream-slash`, `signal-strong`, `signal-weak`
+- `signature`, `signature-lock`, `signature-slash`
+- `signing`
+- `signs-post`
+- `sim-card`, `sim-cards`
+- `sink`
+- `siren`, `siren-on`
+- `sitemap`
+- `skating`
+- `skeleton`, `skeleton-ribs`
+- `ski-boot`, `ski-boot-ski`
+- `ski-jump`, `ski-lift`
+- `skiing`, `skiing-nordic`
+- `skull`, `skull-cow`, `skull-crossbones`
+- `slash`, `slash-back`, `slash-forward`
+- `sledding`
+- `sleigh`
+- `slider`
+- `sliders`, `sliders-h`, `sliders-h-square`, `sliders-simple`, `sliders-up`, `sliders-v`, `sliders-v-square`
+- `slot-machine`
+- `smile`, `smile-beam`, `smile-plus`, `smile-wink`
+- `smog`
+- `smoke`
+- `smoking`, `smoking-ban`
+- `sms`
+- `snake`
+- `snooze`
+- `snow-blowing`
+- `snowboarding`
+- `snowflake`, `snowflake-droplets`, `snowflakes`
+- `snowman`, `snowman-head`
+- `snowmobile`
+- `snowplow`
+- `soap`
+- `soccer-ball`
+- `socks`
+- `soft-serve`
+- `solar-panel`, `solar-system`
+- `sort`, `sort-alpha-asc`, `sort-alpha-desc`, `sort-alpha-down`, `sort-alpha-down-alt`, `sort-alpha-up`, `sort-alpha-up-alt`, `sort-alt`, `sort-amount-asc`, `sort-amount-desc`, `sort-amount-down`, `sort-amount-down-alt`, `sort-amount-up`, `sort-amount-up-alt`, `sort-asc`, `sort-circle`, `sort-circle-down`, `sort-circle-up`, `sort-desc`, `sort-down`, `sort-numeric-asc`, `sort-numeric-desc`, `sort-numeric-down`, `sort-numeric-down-alt`, `sort-numeric-up`, `sort-numeric-up-alt`, `sort-shapes-down`, `sort-shapes-down-alt`, `sort-shapes-up`, `sort-shapes-up-alt`, `sort-size-down`, `sort-size-down-alt`, `sort-size-up`, `sort-size-up-alt`, `sort-up`, `sort-up-down`
+- `soup`
+- `spa`
+- `space-shuttle`, `space-station-moon`, `space-station-moon-alt`, `space-station-moon-construction`
+- `spade`
+- `spaghetti-monster-flying`
+- `sparkle`, `sparkles`
+- `speaker`, `speakers`
+- `spell-check`
+- `spider`, `spider-black-widow`, `spider-web`
+- `spinner`, `spinner-third`
+- `split`
+- `splotch`
+- `spoon`
+- `sportsball`
+- `spray-can`, `spray-can-sparkles`
+- `sprinkler`, `sprinkler-ceiling`
+- `sprout`
+- `square`, `square-0`, `square-1`, `square-2`, `square-3`, `square-4`, `square-5`, `square-6`, `square-7`, `square-8`, `square-9`, `square-a`, `square-a-lock`, `square-ampersand`, `square-arrow-down`, `square-arrow-down-left`, `square-arrow-down-right`, `square-arrow-left`, `square-arrow-right`, `square-arrow-up`, `square-arrow-up-left`, `square-arrow-up-right`, `square-b`, `square-bolt`, `square-c`, `square-caret-down`, `square-caret-left`, `square-caret-right`, `square-caret-up`, `square-check`, `square-chevron-down`, `square-chevron-left`, `square-chevron-right`, `square-chevron-up`, `square-code`, `square-d`, `square-dashed`, `square-dashed-circle-plus`, `square-divide`, `square-dollar`, `square-down`, `square-down-left`, `square-down-right`, `square-e`, `square-ellipsis`, `square-ellipsis-vertical`, `square-envelope`, `square-exclamation`, `square-f`, `square-fragile`, `square-full`, `square-g`, `square-h`, `square-heart`, `square-i`, `square-info`, `square-j`, `square-k`, `square-kanban`, `square-l`, `square-left`, `square-list`, `square-m`, `square-minus`, `square-n`, `square-nfi`, `square-o`, `square-p`, `square-parking`, `square-parking-slash`, `square-pen`, `square-person-confined`, `square-phone`, `square-phone-flip`, `square-phone-hangup`, `square-plus`, `square-poll-horizontal`, `square-poll-vertical`, `square-q`, `square-quarters`, `square-question`, `square-quote`, `square-r`, `square-right`, `square-ring`, `square-root`, `square-root-alt`, `square-root-variable`, `square-rss`, `square-s`, `square-share-nodes`, `square-sliders`, `square-sliders-vertical`, `square-small`, `square-star`, `square-t`, `square-terminal`, `square-this-way-up`, `square-u`, `square-up`, `square-up-left`, `square-up-right`, `square-user`, `square-v`, `square-virus`, `square-w`, `square-wine-glass-crack`, `square-x`, `square-xmark`, `square-y`, `square-z`
+- `squid`
+- `squirrel`
+- `staff`, `staff-aesculapius`, `staff-snake`
+- `stairs`
+- `stamp`
+- `standard-definition`
+- `stapler`
+- `star`, `star-and-crescent`, `star-christmas`, `star-circle`, `star-exclamation`, `star-half`, `star-half-alt`, `star-half-stroke`, `star-of-david`, `star-of-life`, `star-sharp`, `star-sharp-half`, `star-sharp-half-alt`, `star-sharp-half-stroke`, `star-shooting`
+- `starfighter`, `starfighter-alt`, `starfighter-alt-advanced`, `starfighter-twin-ion-engine`, `starfighter-twin-ion-engine-advanced`
+- `stars`
+- `starship`, `starship-freighter`
+- `steak`
+- `steering-wheel`
+- `step-backward`, `step-forward`
+- `sterling-sign`
+- `stethoscope`
+- `sticky-note`
+- `stocking`
+- `stomach`
+- `stop`, `stop-circle`
+- `stopwatch`, `stopwatch-20`
+- `store`, `store-alt`, `store-alt-slash`, `store-lock`, `store-slash`
+- `strawberry`
+- `stream`
+- `street-view`
+- `stretcher`
+- `strikethrough`
+- `stroopwafel`
+- `subscript`
+- `subtract`
+- `subway`, `subway-tunnel`
+- `suitcase`, `suitcase-medical`, `suitcase-rolling`
+- `sun`, `sun-alt`, `sun-bright`, `sun-cloud`, `sun-dust`, `sun-haze`, `sun-plant-wilt`
+- `sunglasses`
+- `sunrise`
+- `sunset`
+- `superscript`
+- `surprise`
+- `sushi`, `sushi-roll`
+- `swatchbook`
+- `swimmer`
+- `swimming-pool`
+- `sword`, `sword-laser`, `sword-laser-alt`
+- `swords`, `swords-laser`
+- `symbols`
+- `synagogue`
+- `sync`, `sync-alt`
+- `syringe`
+- `t-shirt`
+- `table`, `table-cells`, `table-cells-large`, `table-columns`, `table-layout`, `table-list`, `table-picnic`, `table-pivot`, `table-rows`, `table-tennis`, `table-tennis-paddle-ball`, `table-tree`
+- `tablet`, `tablet-alt`, `tablet-android`, `tablet-android-alt`, `tablet-button`, `tablet-rugged`, `tablet-screen`, `tablet-screen-button`
+- `tablets`
+- `tachograph-digital`
+- `tachometer`, `tachometer-alt`, `tachometer-alt-average`, `tachometer-alt-fast`, `tachometer-alt-fastest`, `tachometer-alt-slow`, `tachometer-alt-slowest`, `tachometer-average`, `tachometer-fast`, `tachometer-fastest`, `tachometer-slow`, `tachometer-slowest`
+- `taco`
+- `tag`, `tags`
+- `tally`, `tally-1`, `tally-2`, `tally-3`, `tally-4`, `tally-5`
+- `tamale`
+- `tanakh`
+- `tank-water`
+- `tape`
+- `tarp`, `tarp-droplet`
+- `tasks`, `tasks-alt`
+- `taxi`, `taxi-bus`
+- `teddy-bear`
+- `teeth`, `teeth-open`
+- `telescope`
+- `teletype`, `teletype-answer`
+- `television`
+- `temperature-0`, `temperature-1`, `temperature-2`, `temperature-3`, `temperature-4`, `temperature-arrow-down`, `temperature-arrow-up`, `temperature-down`, `temperature-empty`, `temperature-frigid`, `temperature-full`, `temperature-half`, `temperature-high`, `temperature-hot`, `temperature-list`, `temperature-low`, `temperature-quarter`, `temperature-snow`, `temperature-sun`, `temperature-three-quarters`, `temperature-up`
+- `tenge`, `tenge-sign`
+- `tennis-ball`
+- `tent`, `tent-arrow-down-to-line`, `tent-arrow-left-right`, `tent-arrow-turn-left`, `tent-arrows-down`, `tents`
+- `terminal`
+- `text`, `text-height`, `text-size`, `text-slash`, `text-width`
+- `th`, `th-large`, `th-list`
+- `theater-masks`
+- `thermometer`, `thermometer-0`, `thermometer-1`, `thermometer-2`, `thermometer-3`, `thermometer-4`, `thermometer-empty`, `thermometer-full`, `thermometer-half`, `thermometer-quarter`, `thermometer-three-quarters`
+- `theta`
+- `thought-bubble`
+- `thumb-tack`, `thumbs-down`, `thumbs-up`, `thumbtack`
+- `thunderstorm`, `thunderstorm-moon`, `thunderstorm-sun`
+- `tick`
+- `ticket`, `ticket-airline`, `ticket-alt`, `ticket-simple`, `tickets-airline`
+- `tilde`
+- `timeline`, `timeline-arrow`
+- `timer`
+- `times`, `times-circle`, `times-hexagon`, `times-octagon`, `times-rectangle`, `times-square`, `times-to-slot`
+- `tint`, `tint-slash`
+- `tire`, `tire-flat`, `tire-pressure-warning`, `tire-rugged`
+- `tired`
+- `toggle-large-off`, `toggle-large-on`, `toggle-off`, `toggle-on`
+- `toilet`, `toilet-paper`, `toilet-paper-alt`, `toilet-paper-blank`, `toilet-paper-blank-under`, `toilet-paper-check`, `toilet-paper-reverse`, `toilet-paper-reverse-alt`, `toilet-paper-reverse-slash`, `toilet-paper-slash`, `toilet-paper-under`, `toilet-paper-under-slash`, `toilet-paper-xmark`, `toilet-portable`
+- `toilets-portable`
+- `tomato`
+- `tombstone`, `tombstone-alt`, `tombstone-blank`
+- `toolbox`
+- `tools`
+- `tooth`
+- `toothbrush`
+- `torah`
+- `torii-gate`
+- `tornado`
+- `tower-broadcast`, `tower-cell`, `tower-control`, `tower-observation`
+- `tractor`
+- `trademark`
+- `traffic-cone`, `traffic-light`, `traffic-light-go`, `traffic-light-slow`, `traffic-light-stop`
+- `trailer`
+- `train`, `train-subway`, `train-subway-tunnel`, `train-track`, `train-tram`, `train-tunnel`
+- `tram`
+- `transformer-bolt`
+- `transgender`, `transgender-alt`
+- `transporter`, `transporter-1`, `transporter-2`, `transporter-3`, `transporter-4`, `transporter-5`, `transporter-6`, `transporter-7`, `transporter-empty`
+- `trash`, `trash-alt`, `trash-alt-slash`, `trash-arrow-turn-left`, `trash-arrow-up`, `trash-can`, `trash-can-arrow-turn-left`, `trash-can-arrow-up`, `trash-can-check`, `trash-can-clock`, `trash-can-list`, `trash-can-plus`, `trash-can-slash`, `trash-can-undo`, `trash-can-xmark`, `trash-check`, `trash-circle`, `trash-clock`, `trash-list`, `trash-plus`, `trash-restore`, `trash-restore-alt`, `trash-slash`, `trash-undo`, `trash-undo-alt`, `trash-xmark`
+- `treasure-chest`
+- `tree`, `tree-alt`, `tree-christmas`, `tree-city`, `tree-deciduous`, `tree-decorated`, `tree-large`, `tree-palm`, `trees`
+- `trian-balbot`
+- `triangle`, `triangle-circle-square`, `triangle-exclamation`, `triangle-instrument`, `triangle-music`, `triangle-person-digging`
+- `tricycle`, `tricycle-adult`
+- `trillium`
+- `trophy`, `trophy-alt`, `trophy-star`
+- `trowel`, `trowel-bricks`
+- `truck`, `truck-arrow-right`, `truck-bolt`, `truck-clock`, `truck-container`, `truck-container-empty`, `truck-couch`, `truck-droplet`, `truck-fast`, `truck-field`, `truck-field-un`, `truck-flatbed`, `truck-front`, `truck-loading`, `truck-medical`, `truck-monster`, `truck-moving`, `truck-pickup`, `truck-plane`, `truck-plow`, `truck-ramp`, `truck-ramp-box`, `truck-ramp-couch`, `truck-tow`
+- `trumpet`
+- `try`
+- `tshirt`
+- `tty`, `tty-answer`
+- `tugrik-sign`
+- `turkey`
+- `turkish-lira`, `turkish-lira-sign`
+- `turn-down`, `turn-down-left`, `turn-down-right`, `turn-up`
+- `turntable`
+- `turtle`
+- `tv`, `tv-alt`, `tv-music`, `tv-retro`
+- `typewriter`
+- `ufo`, `ufo-beam`
+- `umbrella`, `umbrella-alt`, `umbrella-beach`, `umbrella-simple`
+- `underline`
+- `undo`, `undo-alt`
+- `unicorn`
+- `uniform-martial-arts`
+- `union`
+- `universal-access`
+- `university`
+- `unlink`
+- `unlock`, `unlock-alt`, `unlock-keyhole`
+- `unsorted`
+- `up`, `up-down`, `up-down-left-right`, `up-from-bracket`, `up-from-dotted-line`, `up-from-line`, `up-left`, `up-long`, `up-right`, `up-right-and-down-left-from-center`, `up-right-from-square`, `up-to-dotted-line`, `up-to-line`
+- `upload`
+- `usb-drive`
+- `usd`, `usd-circle`, `usd-square`
+- `user`, `user-alien`, `user-alt`, `user-alt-slash`, `user-astronaut`, `user-bounty-hunter`, `user-chart`, `user-check`, `user-chef`, `user-circle`, `user-clock`, `user-cog`, `user-construction`, `user-cowboy`, `user-crown`, `user-doctor`, `user-doctor-hair`, `user-doctor-hair-long`, `user-doctor-message`, `user-edit`, `user-friends`, `user-gear`, `user-graduate`, `user-group`, `user-group-crown`, `user-group-simple`, `user-hair`, `user-hair-buns`, `user-hair-long`, `user-hair-mullet`, `user-hard-hat`, `user-headset`, `user-helmet-safety`, `user-injured`, `user-large`, `user-large-slash`, `user-lock`, `user-magnifying-glass`, `user-md`, `user-md-chat`, `user-minus`, `user-music`, `user-ninja`, `user-nurse`, `user-nurse-hair`, `user-nurse-hair-long`, `user-pen`, `user-pilot`, `user-pilot-tie`, `user-plus`, `user-police`, `user-police-tie`, `user-robot`, `user-robot-xmarks`, `user-secret`, `user-shakespeare`, `user-shield`, `user-slash`, `user-tag`, `user-tie`, `user-tie-hair`, `user-tie-hair-long`, `user-times`, `user-unlock`, `user-visor`, `user-vneck`, `user-vneck-hair`, `user-vneck-hair-long`, `user-xmark`
+- `users`, `users-between-lines`, `users-class`, `users-cog`, `users-crown`, `users-gear`, `users-line`, `users-medical`, `users-rays`, `users-rectangle`, `users-slash`, `users-viewfinder`
+- `utensil-fork`, `utensil-knife`, `utensil-spoon`
+- `utensils`, `utensils-alt`, `utensils-slash`
+- `utility-pole`, `utility-pole-double`
+- `vacuum`, `vacuum-robot`
+- `value-absolute`
+- `van-shuttle`
+- `vault`
+- `vcard`
+- `vector-circle`, `vector-polygon`, `vector-square`
+- `vent-damper`
+- `venus`, `venus-double`, `venus-mars`
+- `vest`, `vest-patches`
+- `vhs`
+- `vial`, `vial-circle-check`, `vial-virus`, `vials`
+- `video`, `video-arrow-down-left`, `video-arrow-up-right`, `video-camera`, `video-circle`, `video-handheld`, `video-plus`, `video-slash`
+- `vihara`
+- `violin`
+- `virus`, `virus-covid`, `virus-covid-slash`, `virus-slash`, `viruses`
+- `voicemail`
+- `volcano`
+- `volleyball`, `volleyball-ball`
+- `volume`, `volume-control-phone`, `volume-down`, `volume-high`, `volume-low`, `volume-medium`, `volume-mute`, `volume-off`, `volume-slash`, `volume-times`, `volume-up`, `volume-xmark`
+- `vote-nay`, `vote-yea`
+- `vr-cardboard`
+- `waffle`
+- `wagon-covered`
+- `walker`
+- `walkie-talkie`
+- `walking`
+- `wall-brick`
+- `wallet`
+- `wand`, `wand-magic`, `wand-magic-sparkles`, `wand-sparkles`
+- `warehouse`, `warehouse-alt`, `warehouse-full`
+- `warning`
+- `washer`, `washing-machine`
+- `watch`, `watch-apple`, `watch-calculator`, `watch-fitness`, `watch-smart`
+- `water`, `water-arrow-down`, `water-arrow-up`, `water-ladder`, `water-lower`, `water-rise`
+- `watermelon-slice`
+- `wave-pulse`, `wave-sine`, `wave-square`, `wave-triangle`
+- `waveform`, `waveform-circle`, `waveform-lines`, `waveform-path`
+- `webcam`, `webcam-slash`
+- `webhook`
+- `weight`, `weight-hanging`, `weight-scale`
+- `whale`
+- `wheat`, `wheat-alt`, `wheat-awn`, `wheat-awn-circle-exclamation`, `wheat-awn-slash`, `wheat-slash`
+- `wheelchair`, `wheelchair-alt`, `wheelchair-move`
+- `whiskey-glass`, `whiskey-glass-ice`
+- `whistle`
+- `wifi`, `wifi-1`, `wifi-2`, `wifi-3`, `wifi-exclamation`, `wifi-fair`, `wifi-slash`, `wifi-strong`, `wifi-weak`
+- `wind`, `wind-circle-exclamation`, `wind-turbine`, `wind-warning`
+- `window`, `window-alt`, `window-close`, `window-flip`, `window-frame`, `window-frame-open`, `window-maximize`, `window-minimize`, `window-restore`
+- `windsock`
+- `wine-bottle`, `wine-glass`, `wine-glass-alt`, `wine-glass-crack`, `wine-glass-empty`
+- `won`, `won-sign`
+- `worm`
+- `wreath`, `wreath-laurel`
+- `wrench`, `wrench-simple`
+- `x-ray`
+- `xmark`, `xmark-circle`, `xmark-hexagon`, `xmark-large`, `xmark-octagon`, `xmark-square`, `xmark-to-slot`
+- `xmarks-lines`
+- `yin-yang`
+- `zap`
+- `zzz`
+
+## Additional Notes
+
+- All icon identifiers are string literals of type `AwesomeFontIconIdentifier`
+- These icons are Font Awesome icons and can be used wherever an icon prop accepts a string value
+- The icons are organized alphabetically in the type definition
+- Some icons have multiple variations (e.g., `circle`, `circle-check`, `circle-exclamation`, etc.)
